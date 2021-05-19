@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![haopham1705](yep-head)](http://haopham.co/)
+[![haopham1705](yep-head.gif)](http://haopham.co/)
