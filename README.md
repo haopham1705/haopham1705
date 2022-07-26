@@ -2,14 +2,10 @@
 
 [![haopham1705](yep-head.gif)](http://bitcompay.net)
 
-This is the place where I opensource stuff and break things :rofl:
-
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 📫 &nbsp;How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+Who am I ?
+- 👨‍💻 &nbsp;I'm Hao
+- 🔭 &nbsp;I’m a Frontend Developer
+- Have a passion for working in technology  
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -22,6 +18,10 @@ This is the place where I opensource stuff and break things :rofl:
   <br/>
 
 I am a Frontend Developer with 1+ years of experience in Web and Mobile developer.
+- Over 1 year of experience in programming.
+- Have a passion for working in technology.
+- Understanding build Frontend technology web application development.
+
 
 </details> 
 
