@@ -5,7 +5,6 @@
 Who am I ?
 - 👨‍💻 &nbsp;I'm Hao
 - 🔭 &nbsp;I’m a Frontend Developer
-- Have a passion for working in technology  
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -17,10 +16,10 @@ Who am I ?
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Frontend Developer with 1+ years of experience in Web and Mobile developer.
-- Over 1 year of experience in programming.
+I am a Frontend Developer.
+- About 3 years of experience in programming.
 - Have a passion for working in technology.
-- Understanding build Frontend technology web application development.
+- Understanding build Frontend technology application development for web and mobile.
 
 </details> 
 
