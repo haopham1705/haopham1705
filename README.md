@@ -2,9 +2,9 @@
 
 [![hawpham](yep-head.gif)](http://7slab.com)
 
-Who am I ?
-- 👨‍💻 &nbsp;I'm Hao
-- 🔭 &nbsp;I’m a Frontend Developer
+Hi ✋
+- 👨‍💻 &nbsp;I'm Hao (Hào)
+- 🔭 &nbsp;I’m a Web Developer
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
