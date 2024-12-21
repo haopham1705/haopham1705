@@ -1,8 +1,7 @@
-# 👋 Hi Folks! 🙋‍♂️
+# Hi Folks! ✋
 
 [![hawpham](yep-head.gif)](http://7slab.com)
 
-Hi ✋
 - 👨‍💻 &nbsp;I'm Hao (Hào)
 - 🔭 &nbsp;I’m a Web Developer
 
