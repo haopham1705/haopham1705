@@ -1,6 +1,6 @@
 # 👋 Hi Folks! 🙋‍♂️
 
-[![haopham1705](yep-head.gif)](http://haopham.me)
+[![hawpham](yep-head.gif)](http://7slab.com)
 
 Who am I ?
 - 👨‍💻 &nbsp;I'm Hao
@@ -8,8 +8,8 @@ Who am I ?
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://facebook.com/hawpham1705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haopham" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/haopham1705/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haopham" height="30" width="40" /></a>
+<a href="https://www.facebook.com/phrahaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haopham" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/haopv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haopham" height="30" width="40" /></a>
 <a href="https://instagram.com/hawpham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haopham" height="30" width="40" /></a>
 
 <details>
@@ -19,7 +19,7 @@ Who am I ?
 I am a Frontend Developer.
 - About 3 years of experience in programming.
 - Have a passion for working in technology.
-- Understanding build Frontend technology application development for web and mobile.
+- I understand building front-end technology application development for web and mobile.
 
 </details> 
 
