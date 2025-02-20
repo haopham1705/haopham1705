@@ -7,7 +7,7 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://www.facebook.com/phrahaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haopham" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hawphv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haopham" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/haopv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haopham" height="30" width="40" /></a>
 <a href="https://instagram.com/hawpham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haopham" height="30" width="40" /></a>
 
@@ -16,7 +16,7 @@
   <br/>
 
 I am a Frontend Developer.
-- About 3 years of experience in programming.
+- About 5 years of experience in programming.
 - Have a passion for working in technology.
 - I understand building front-end technology application development for web and mobile.
 
