@@ -10,7 +10,7 @@
 <a href="https://www.facebook.com/hawphv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hawpham" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/haopv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hawpham" height="30" width="40" /></a>
 <a href="https://instagram.com/hawpham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="hawpham" height="30" width="40" /></a>
-<a href="https://t.me/hawpham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="hawpham" height="30" width="40" /></a>
+<!-- <a href="https://t.me/hawpham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="hawpham" height="30" width="40" /></a> -->
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
